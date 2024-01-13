@@ -18,7 +18,7 @@ const Navbar = () => {
           <option value={SUPPORTED_DEP[0].identifier}>Department - {SUPPORTED_DEP[0].name}</option>
           <option value={SUPPORTED_DEP[1].identifier}>Department - {SUPPORTED_DEP[1].name}</option>
         </select>
-        <img className='h-10 m-2 ml-40 sm:ml-0 cursor-pointer' src="https://icons.veryicon.com/png/o/internet--web/prejudice/user-128.png" alt="user123" />
+        <img className='h-10 m-2 ml-36 sm:ml-0 cursor-pointer' src="https://icons.veryicon.com/png/o/internet--web/prejudice/user-128.png" alt="user123" />
         <p className='items-center mt-4 ml-40 sm:ml-0'>user123</p>
       </div> }
     </div>
