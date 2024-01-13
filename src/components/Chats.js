@@ -33,7 +33,7 @@ const Chats = () => {
     setMsg(e.target.value);
   }
   return (
-    <div className='flex flex-col w-screen'> 
+    <div className='flex flex-col w-screen sm:pl-16'> 
        <div className="1 m-4 p-4 border-2 border-gray-700 w-96 h-[30%] sm:h-[12%]">
         <h1 className='font-bold'>Introduce yourself to AIWorkSquad</h1>
         <p>Im Nithin CEO of an IT startup company in india</p>
